@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "427609299812",
+    "project_id": "gurividcall",
+    "storage_bucket": "gurividcall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427609299812:android:18f91d93b0334421747871",
+        "android_client_info": {
+          "package_name": "com.guri.gurividcall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKrQ0VCuyRoB7LdCP5bokdmOqm0rzf2Uc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
